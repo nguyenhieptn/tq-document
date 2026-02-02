@@ -1,3 +1,6 @@
+
+trích toàn bộ văn bản cấm thêm bớt nội dung sử lý từ bảng -> text
+-------------------------------------------------------------
 I. QUY TẮC LÀM PHẦN METADATA
 1. Khi nào tạo Metadata
 Chỉ tạo # Metadata nếu văn bản có đủ thông tin như:
